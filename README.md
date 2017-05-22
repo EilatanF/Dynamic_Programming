@@ -1,1 +1,3 @@
-# Dynamic Programming using SML
+# 15-210 lab
+
+Dynamic Programming using SML
